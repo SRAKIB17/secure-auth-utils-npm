@@ -1,6 +1,6 @@
 {
   "name": "secure-auth-utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "types": "index.d.ts",
   "description": "SecureAuth is a comprehensive Node.js package that provides easy-to-use utilities for authentication and security-related tasks. It includes functions for generating and verifying JWT tokens, hashing passwords securely, and refreshing authentication tokens. With SecureAuth, developers can quickly implement secure authentication mechanisms in their Node.js applications, ensuring the integrity and confidentiality of user data.",
@@ -11,9 +11,6 @@
   "files": [
     "libs"
   ],
-  "dependencies": {
-    "jsonwebtoken": "^9.0.2"
-  },
   "keywords": [
     "crypto-utils",
     "jsonwebtoken-helper",
@@ -30,8 +27,5 @@
     "authentication-utils",
     "auth",
     "secure-auth"
-  ],
-  "devDependencies": {
-    "@types/jsonwebtoken": "^9.0.6"
-  }
+  ]
 }

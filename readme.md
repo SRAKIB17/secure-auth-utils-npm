@@ -1,18 +1,18 @@
 
-# Your Package Name
+# secure-auth-utils
 
-A brief description of your secure-auth-utils.
+A brief description of secure-auth-utils.
 
 ## Installation
 
 You can install this package via npm:
 
 ```bash
-npm install secure-auth-utils
+npm install secure-auth-utils jsonwebtoken
 ```
 
 ```bash
-yarn add secure-auth-utils
+yarn add secure-auth-utils jsonwebtoken
 ```
 
 ## Usage
