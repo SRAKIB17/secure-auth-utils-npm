@@ -1,7 +1,7 @@
 
 # secure-auth-utils
 
-A brief description of secure-auth-utils.
+SecureAuth is a comprehensive Node.js package that provides easy-to-use utilities for authentication and security-related tasks. It includes functions for generating and verifying JWT tokens, hashing passwords securely, and refreshing authentication tokens. With SecureAuth, developers can quickly implement secure authentication mechanisms in their Node.js applications, ensuring the integrity and confidentiality of user data.
 
 ## Installation
 
